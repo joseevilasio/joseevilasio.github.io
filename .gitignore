@@ -131,3 +131,7 @@ dmypy.json
 .pyre/
 .vscode/launch.json
 dundie/testeteste.py
+
+# Pelican
+
+output/

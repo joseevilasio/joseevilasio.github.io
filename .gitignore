@@ -130,8 +130,8 @@ dmypy.json
 # Pyre type checker
 .pyre/
 .vscode/launch.json
-dundie/testeteste.py
 
 # Pelican
+output
+plugins
 
-output/
